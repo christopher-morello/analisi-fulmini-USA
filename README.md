@@ -1,4 +1,4 @@
-# analisi-tempeste-USA
+# analisi-fulmini-USA
 
 Questo dataset utilizza un file denominato `eda_using_basic_data_functions_in_python_dataset1.csv` e proviene dalla tabella dati pubblica bigquery-public-data.noaa_lightning.lightning_strikes.   
 
