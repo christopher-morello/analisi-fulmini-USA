@@ -25,7 +25,7 @@ Di seguito sono riportate le informazioni sulle colonne.
 
 ## Riepilogo analisi
 
-- [Analisi EDA Fulmini NOAA 2018]()
+- [Analisi EDA Fulmini NOAA 2018](Analisi_EDA_fulmini_NOAA.ipynb)
 In questo notebook, userò `pandas` per esaminare i dati sui fulmini del 2018 raccolti dalla National Oceanic and Atmospheric Administration (NOAA).
 Successivamente calcolerò il numero totale di fulmini per ogni mese e visualizzerò queste informazioni su un grafico a barre.
 
